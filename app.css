@@ -1,0 +1,38 @@
+body {
+    margin: calc(9%/6);
+}
+
+img {
+    width: 30%;
+    height: 300px;
+    margin: inherit;
+    border-radius: 15px;
+}
+header {
+    display: flex;
+    margin: calc(9%/6);
+}
+h1 {
+    margin: inherit;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    width: 50%;
+    
+}
+h2 {
+    font-family: 'Dancing Script', cursive;
+    width: 600px;
+    text-align: center;
+ }
+hr {
+    width: 30%;
+    margin: inherit;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+footer {
+    margin: calc(9%/6);
+}
+a:link {
+    text-decoration: none;
+}
